@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="203857" started-at="2021-07-03T18:10:54Z" finished-at="2021-07-03T18:14:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="203857" started-at="2021-07-03T18:10:54Z" finished-at="2021-07-03T18:14:18Z">
+      <class name="com.FreeCRM.TestCases.ContactpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="setup" is-config="true" duration-ms="75941" started-at="2021-07-03T18:11:00Z" finished-at="2021-07-03T18:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createNewContact(java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="createNewContact" duration-ms="10537" started-at="2021-07-03T18:12:16Z" data-provider="getTestData" finished-at="2021-07-03T18:12:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abhav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dwell]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SourceTech]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContact -->
+        <test-method status="PASS" signature="teardwon()[pri:0, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="teardwon" is-config="true" duration-ms="5335" started-at="2021-07-03T18:12:26Z" finished-at="2021-07-03T18:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwon -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="setup" is-config="true" duration-ms="29753" started-at="2021-07-03T18:12:32Z" finished-at="2021-07-03T18:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createNewContact(java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="createNewContact" duration-ms="6145" started-at="2021-07-03T18:13:01Z" data-provider="getTestData" finished-at="2021-07-03T18:13:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Max]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Coffitime]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContact -->
+        <test-method status="PASS" signature="teardwon()[pri:0, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="teardwon" is-config="true" duration-ms="2790" started-at="2021-07-03T18:13:07Z" finished-at="2021-07-03T18:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwon -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="setup" is-config="true" duration-ms="23537" started-at="2021-07-03T18:13:10Z" finished-at="2021-07-03T18:13:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createNewContact(java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="createNewContact" duration-ms="10718" started-at="2021-07-03T18:13:34Z" data-provider="getTestData" finished-at="2021-07-03T18:13:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chandler]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bing]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CentralPark]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContact -->
+        <test-method status="PASS" signature="teardwon()[pri:0, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="teardwon" is-config="true" duration-ms="2488" started-at="2021-07-03T18:13:44Z" finished-at="2021-07-03T18:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwon -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="setup" is-config="true" duration-ms="21194" started-at="2021-07-03T18:13:47Z" finished-at="2021-07-03T18:14:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createNewContact(java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="createNewContact" duration-ms="6949" started-at="2021-07-03T18:14:08Z" data-provider="getTestData" finished-at="2021-07-03T18:14:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Joey]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tribbyaani]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[HouseofAdvertisement]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContact -->
+        <test-method status="PASS" signature="teardwon()[pri:0, instance:com.FreeCRM.TestCases.ContactpageTest@3c22fc4c]" name="teardwon" is-config="true" duration-ms="2800" started-at="2021-07-03T18:14:15Z" finished-at="2021-07-03T18:14:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwon -->
+      </class> <!-- com.FreeCRM.TestCases.ContactpageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

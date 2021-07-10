@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="POMtestsuite" verbose="1">
+
+<listeners>
+    <listener class-name = "com.freeCRM.Extentreport.ExtentReportListnerNg"></listener>
+    </listeners>
+    
+	<test name="POMSeleniumTest">
+		<classes>
+			<class name="com.FreeCRM.TestCases.LoginpageTestcases" />
+			<class name="com.FreeCRM.TestCases.HomepageTest" />
+			<class name="com.FreeCRM.TestCases.ContactpageTest" />
+
+
+		</classes>
+	</test>
+</suite>
